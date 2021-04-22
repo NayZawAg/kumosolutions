@@ -2,7 +2,7 @@
   "homepage": "https://github.com/NayZawAg/kumosolutions.git",
   "name": "kumosolutions",
   "version": "0.1.0",
-  "private": true,  
+  "private": true,
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.10",
@@ -41,7 +41,6 @@
       "last 1 safari version"
     ]
   },
-  
   "devDependencies": {
     "gh-pages": "^3.1.0"
   }
